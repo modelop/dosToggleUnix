@@ -5,6 +5,8 @@
 import json
 import math
 
+#adding comment 11-12-2021 11:41am MST
+
 print("Starting program", flush=True)
 
 #modelop.init
